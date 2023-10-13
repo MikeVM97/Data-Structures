@@ -1,4 +1,4 @@
-Por supuesto, aquí tienes una clasificación de estructuras de datos con ejemplos en cada categoría:
+Clasificación de Estructuras De Datos con ejemplos en cada categoría:
 
 1. **Según su Naturaleza:**
    - **Estructuras de Datos Lineales:** Arrays, Listas Enlazadas
